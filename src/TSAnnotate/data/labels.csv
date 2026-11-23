@@ -1,0 +1,171 @@
+Right bend,Right bend,#BA280F
+Left bend,Left bend,#BA280F
+Double bend (left),Double bend (left),#BA280F
+Double bend (right),Double bend (right),#BA280F
+Dangerous descent,Descent,#BA280F
+Steep ascent,Ascent,#BA280F
+Carriageway narrows (both),Carriageway narrows (both),#BA280F
+Carriageway narrows (right),Carriageway narrows (right),#BA280F
+Carriageway narrows (left),Carriageway narrows (left),#BA280F
+Road leads on to quay or river bank,Quay or river bank,#BA280F
+Uneven road (1 bump),Uneven (1 bump),#BA280F
+Uneven road (2 bump),Uneven (2 bump),#BA280F
+Slippery road,Slippery,#BA280F
+Loose gravel,Loose gravel,#BA280F
+Falling rocks,Falling rocks,#BA280F
+Pedestrian crossing,Pedestrian crossing,#BA280F
+Children (School),Children (School),#BA280F
+Cyclists entering or crossing,Cyclists,#BA280F
+Domestic animals crossing,Domestic animals,#BA280F
+Wild animals crossing,Wild animals,#BA280F
+Road works,Road works,#BA280F
+Light signals,Light signals,#BA280F
+Intersection,Intersection,#BA280F
+Intersection with road (priority),Intersection with road (priority),#BA280F
+Roundabout,Roundabout,#BA280F
+Two-way traffic,Two-way traffic,#BA280F
+Level-crossings with gates,Level-crossings with gates,#BA280F
+Other level-crossings,Other level-crossings,#BA280F
+Immediate level-crossing,Immediate level-crossing,#BA280F
+Level-crossings additional signs,Level-crossings additional signs,#BA280F
+Airfield,Airfield,#BA280F
+Other dangers,Other dangers,#BA280F
+Snow,Snow,#BA280F
+Riders on horseback,Riders on horseback,#BA280F
+Give way,Give way,#0FBA1D
+Stop,Stop,#0FBA1D
+Priority road,Priority road,#0FBA1D
+End of priority,End of priority,#0FBA1D
+Priority for oncoming traffic,Priority for oncoming traffic,#0FBA1D
+Priority over oncoming traffic,Priority over oncoming traffic,#0FBA1D
+No entry,No entry,#79E07D
+Closed to all vehicles in both directions,Closed to all vehicles in both directions,#79E07D
+No entry for cycles,No entry (cycles),#79E07D
+No entry for vehicle drawing a trailer,No entry (trailer),#79E07D
+No entry for power driven vehicles,No entry (power driven vehicles),#79E07D
+No entry for vehicles having an overall width exceeding … meters,No entry (width),#79E07D
+No entry for vehicles having an overall height exceeding … meters,No entry (height),#79E07D
+No entry for vehicles exceeding … tonnes laden mass,No entry (weight),#79E07D
+No entry for vehicles having a mass exceeding … tonnes on one axle,No entry (weight per axle),#79E07D
+No entry for trucks,No entry (trucks) ,#79E07D
+No left turn,No left turn,#79E07D
+No right turn,No right turn ,#79E07D
+No U-turn,No U-turn,#79E07D
+Overtaking prohibited,Overtaking prohibited,#79E07D
+Overtaking by goods vehicles prohibited,Overtaking by goods vehicles prohibited,#79E07D
+Maximum speed limit 10,10,#79E07D
+Maximum speed limit 20,20,#79E07D
+Maximum speed limit 25,25,#79E07D
+Maximum speed limit 30,30,#79E07D
+Maximum speed limit 40,40,#79E07D
+Maximum speed limit 50,50,#79E07D
+Maximum speed limit 60,60,#79E07D
+Maximum speed limit 70,70,#79E07D
+Maximum speed limit 80,80,#79E07D
+Maximum speed limit 90,90,#79E07D
+Maximum speed limit 100,100,#79E07D
+Maximum speed limit 110,110,#79E07D
+Maximum speed limit 120,120,#79E07D
+Passing without stopping prohibited (customs),Customs,#79E07D
+End of all local prohibitions imposed on moving vehicles,End of all local prohibitions,#79E07D
+End of maximum speed limit,End of maximum speed limit,#79E07D
+End of prohibition of overtaking,End of prohibition of overtaking,#79E07D
+End of prohibition of overtaking for goods vehicles,End of prohibition of overtaking for goods vehicles,#79E07D
+Parking prohibited,Parking prohibited ,#79E07D
+Parking prohibited (first half month),Parking prohibited (first half month),#79E07D
+Parking prohibited (last half month),Parking prohibited (last half month),#79E07D
+Standing and parking prohibited,Standing and parking prohibited ,#79E07D
+End of parking prohibited,End of parking prohibited ,#79E07D
+No photos,No photos,#79E07D
+Direction – Straight,Straight,#42FF4A
+Direction – Right,Right,#42FF4A
+Direction – Left,Left,#42FF4A
+Direction – Straight or Right,Straight or Right,#42FF4A
+Direction – Straight or Left,Straight or Left,#42FF4A
+Direction – Turn right,Turn right,#42FF4A
+Direction – Turn left,Turn left,#42FF4A
+Pass Right,Pass Right,#42FF4A
+Pass Left,Pass Left,#42FF4A
+Pass Either side,Pass Either side,#42FF4A
+Compulsory roundabout,Roundabout (m),#42FF4A
+Compulsory cycle track,Cycle track,#42FF4A
+Compulsory footpath,Footpath,#42FF4A
+Compulsory cycle track - footpath (split),Cycle track - footpath (split),#42FF4A
+Compulsory cycle track - footpath (shared),Cycle track - footpath (shared),#42FF4A
+Compulsory bus,Compulsory - Bus,#42FF4A
+End of compulsory bus,End of compulsory bus,#42FF4A
+End of compulsory cycle track,End Cycle track,#42FF4A
+End of pedestrian track,End of pedestrian track,#42FF4A
+Lanes reserved for certain vehicle type,Lanes reserved for certain vehicle type,#3CF09C
+One-way (Straight),One-way (Straight),#3CF09C
+One-way (Right),One-way (Right),#3CF09C
+One-way (Left),One-way (Left),#3CF09C
+Motorway,Motorway,#3CF09C
+Road for motor vehicles,Road for motor vehicles,#3CF09C
+Beginning of area (town),Beginning of area (town),#3CF09C
+End of area (town),End of area (town),#3CF09C
+Maximum speed zone,Maximum speed zone,#3CF09C
+End of maximum speed zone,End of maximum speed zone,#3CF09C
+Pedestrian crossing,Pedestrian crossing (s),#3CF09C
+Parking,Parking,#3CF09C
+Parking for handicap,Parking for handicap,#3CF09C
+Parking for cars,Parking for cars,#3CF09C
+Parking for goods vehicles,Parking for goods vehicles,#3CF09C
+Parking for bus,Parking for bus,#3CF09C
+Parking on pavement or verge,Parking on pavement or verge,#3CF09C
+Parking on the right,Parking on the right,#3CF09C
+Parking on the left,Parking on the left,#3CF09C
+Parking garage,Parking garage,#3CF09C
+Bus stop,Bus stop,#3CF09C
+Cyclists-Pedestrians,Cyclists-Pedestrians (s),#3CF09C
+Cycle track,Cycle track (s),#3CF09C
+Cyclists entering or crossing,Cyclists entering or crossing (s),#3CF09C
+Residential area,Residential area,#3CF09C
+End of residential area,End of residential area,#3CF09C
+Uneven road (1 bump),Uneven road (1 bump),#3CF09C
+Pass right,Pass right (s),#3CF09C
+End of road works,End of road works,#3C45F0
+Filling station,Filling station,#3C45F0
+Hotel or motel,Hotel or motel,#3C45F0
+Restaurant,Restaurant,#3C45F0
+Refreshments or cafeteria,Refreshments or cafeteria,#3C45F0
+Children on the road,Children on the road,#3C45F0
+School patrol,School patrol,#3C45F0
+Water protection area,Water protection area,#3C45F0
+River,River,#3C45F0
+Road construction,Road construction,#3C45F0
+Police station,Police station,#3C45F0
+Radio station,Radio station,#3C45F0
+Advance direction signs,Advance direction signs,#869BDB
+Direction to place,Direction to place,#869BDB
+Number and direction of traffic lanes,Number and direction of traffic lanes,#869BDB
+Closure of a traffic lane,Closure of a traffic lane,#869BDB
+No through road (dead end),No through road (dead end),#869BDB
+General speed limits,General speed limits,#869BDB
+Exit from motorway,Exit from motorway,#869BDB
+Carriage of vehicles (lane directions),Carriage of vehicles (lane directions),#869BDB
+Distance to place,Distance to place,#56E1F0
+Length of dangerous section,Length of dangerous section,#56E1F0
+Intersection priority,Intersection priority,#56E1F0
+Ice/Snow,Ice/Snow,#56E1F0
+Directional panel (arrows),Directional panel (arrows),#56E1F0
+Tram,Tram,#56E1F0
+Car,Car,#56E1F0
+Bus,Bus,#56E1F0
+Truck,Truck,#56E1F0
+Handicap,Handicap,#56E1F0
+Bicycle,Bicycle,#56E1F0
+Timing,Timing,#56E1F0
+Supplemental panel,Supplemental panel,#56E1F0
+Limited access on side,Limited access on side,#D9873B
+Curve right,Curve right,#D9873B
+Curve left,Curve left,#D9873B
+Barrier,Barrier,#D9873B
+Obstacle,Obstacle,#D9873B
+Other warning,Other warning,#FCFCFC
+Other priority,Other priority,#FCFCFC
+Other prohibitory,Other prohibitory,#FCFCFC
+Other mandatory,Other mandatory,#FCFCFC
+Other special regulation,Other special regulation,#FCFCFC
+Other (blue) information signs,Other (blue) information signs,#FCFCFC
+Other signs,Other signs,#FCFCFC

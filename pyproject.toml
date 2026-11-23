@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "TSAnnotate"
+version = "1.0.0"
+authors = [
+  { name="David Silbermann", email="david.silbermann@rub.de" },
+]
+description = "Quickly annotate images for traffic sign detection and recognition by using pre-trained models."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.14.1",
+    "torchvision>=0.29.1",
+    "torchcodec>=0.16.0",
+    "ultralytics>=8.4.190",
+    "pillow>=12.3.0",
+    "scikit-image>=0.25.2",
+    "opencv-python>=4.11.0.86",
+    "huggingface-hub>=2.4.0"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.scripts]
+ts-annotate = "TSAnnotate.Main:main"
+
+[tool.setuptools.package-data]
+TSAnnotate = ["data/*"]
+
+[project.urls]
+Homepage = "https://github.com/d-silbermann/TSAnnotate"
+Issues = "https://github.com/d-silbermann/TSAnnotate/issues"
